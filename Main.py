@@ -99,7 +99,7 @@
     <div class="card">
       <h2>Official Links</h2>
       <div class="buttons">
-        <a class="btn" href="https://x.com/Wawawaonsol" target="_blank">Official X</a>
+        <a class="btn" href="https://x.com/i/communities/2010858254960619803" target="_blank">Official X</a>
         <a class="btn" href="https://x.com/i/chat/group_j…" target="_blank">Join Group Chat</a>
       </div>
     </div>
